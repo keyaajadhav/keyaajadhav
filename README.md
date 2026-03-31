@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/{keyaajadhav}/{keyaajadhav}/blob/main/Screenshot 2026-03-31 231030.png" alt="my photo">
+<img src="https://github.com/{keyaajadhav}/{keyaajadhav}/blob/main/keya.png" alt="my photo">
 <!--
 **keyaajadhav/keyaajadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
