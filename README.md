@@ -1,6 +1,11 @@
-## Hi there 👋
+
 
 <img src="https://github.com/{keyaajadhav}/{keyaajadhav}/blob/main/keya.png" alt="my photo">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Keya+Jadhav!;" />
+</h1>
+
+### Building with code, learning with curiosity 🚀.
 <!--
 **keyaajadhav/keyaajadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
