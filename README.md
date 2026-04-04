@@ -63,14 +63,17 @@ A database-driven project with ER modeling, normalization, and structured data h
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/keyajadhav?theme=light" />
 </p>
+
+---
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/keyajadhav">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/keyajadhav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="mailto:contact.keyajadhav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 <!--
