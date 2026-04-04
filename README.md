@@ -20,19 +20,10 @@
 
 ## 🛠 Skills  
 
-**Languages**  
-Python • C++ • JavaScript  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,flask,mysql,mongodb,git,github,vscode,postman" />
+</p>
 
-**Web Development**  
-HTML • CSS • React • Flask  
-
-**Databases**  
-MySQL • MongoDB  
-
-**Tools & Technologies**  
-Git • GitHub • VS Code • Postman  
-
----
 
 ## 🚀 Featured Projects  
 
