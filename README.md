@@ -25,19 +25,7 @@
 </p>
 
 
-## 🚀 Featured Projects  
 
-🔹 **Nirwana – Mental Health Platform**  
-A platform focused on student mental wellness, offering guided support and chatbot-based interaction.  
-[View Project](https://github.com/YOUR-USERNAME/nirwana-repo)
-
-🔹 **Medical Inventory Management System**  
-A system to manage medical stock with real-time alerts using Twilio and email notifications.  
-[View Project](https://github.com/YOUR-USERNAME/medical-inventory-repo)
-
-🔹 **Expense Management System**  
-A database-driven project with ER modeling, normalization, and structured data handling.  
-[View Project](https://github.com/YOUR-USERNAME/expense-management-repo)
 
 ---
 
